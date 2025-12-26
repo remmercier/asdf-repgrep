@@ -111,7 +111,7 @@ install_version() {
 		compile_source "$ASDF_DOWNLOAD_PATH"
 
 		# Install binary
-		install_binary "$ASDF_DOWNLOAD_PATH" "$install_path" "bat"
+		install_binary "$ASDF_DOWNLOAD_PATH" "$install_path" "rgr"
 
 		# Verify installation
 		local tool_cmd
