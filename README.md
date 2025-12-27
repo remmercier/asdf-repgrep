@@ -40,7 +40,7 @@ asdf install repgrep latest
 asdf global repgrep latest
 
 # Now repgrep commands are available
-repgrep --help
+rgr --help
 ```
 
 Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on how to
